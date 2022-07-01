@@ -1,0 +1,23 @@
+{
+  "name": "regex-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longclnx/regex-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longclnx/regex-basic/issues"
+  },
+  "homepage": "https://github.com/longclnx/regex-basic#readme",
+  "devDependencies": {
+    "jest": "26.0.1"
+  }
+}
